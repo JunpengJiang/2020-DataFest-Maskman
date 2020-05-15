@@ -8,7 +8,9 @@ Junpeng Jiang - junpengmarshall@gmail.com
 Minghan Li - kevinli980714@gmail.com 
 Baiting Zhu - baitingzbt@g.ucla.edu
             
-## RShiny Dashboard:https://whuai.shinyapps.io/2020DataFest-Maskman/
+## RShiny Dashboard
+
+https://whuai.shinyapps.io/2020DataFest-Maskman/
 
 ## Summary
 
