@@ -2,6 +2,8 @@
 
 ## Members: Minghan Li; Wendy Huai; Baiting Zhu; Chuqi Bian; Junpeng Jiang
 
+## RShiny App:https://whuai.shinyapps.io/2020DataFest-Maskman/
+
 ## Summary
 
 As many health care products such as masks and disinfectant products are taking over the news headlines, our team has decided to place our primary focus on the shifts of the demand and prices of the consumer products. Specifically, we divided the products into four categories and selected 5 products to represent each category. With extensive data cleaning and visualizations, we have mainly examined the products’ price trend, price vs. demand correlation and created an out-of-stock index across different products.
