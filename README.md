@@ -1,4 +1,4 @@
-# 2020-DataFest-Maskman: Amazon Price/Google Trend in-depth analysis
+# 2020-DataFest-Maskman: Purchasing Behavior During COVID-19: Amazon Price/Google Trend in-depth Analysis
 
 ## Members: 
 
