@@ -1,8 +1,14 @@
 # 2020-DataFest-Maskman: Amazon Price/Google Trend in-depth analysis
 
-## Members: Minghan Li; Wendy Huai; Baiting Zhu; Chuqi Bian; Junpeng Jiang
+## Members: 
 
-## RShiny App:https://whuai.shinyapps.io/2020DataFest-Maskman/
+Chuqi Bian - cb102497@gmail.com 
+Wendy Huai - wendyhuai@g.ucla.edu
+Junpeng Jiang - junpengmarshall@gmail.com
+Minghan Li - kevinli980714@gmail.com 
+Baiting Zhu - baitingzbt@g.ucla.edu
+            
+## RShiny Dashboard:https://whuai.shinyapps.io/2020DataFest-Maskman/
 
 ## Summary
 
