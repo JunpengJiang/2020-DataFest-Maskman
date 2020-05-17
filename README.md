@@ -5,7 +5,7 @@
 Chuqi Bian - cb102497@gmail.com 
 Wendy Huai - wendyhuai@g.ucla.edu
 Junpeng Jiang - junpengmarshall@gmail.com
-Minghan Li - kevinli980714@gmail.com 
+Minghan Li - minghanli@ucla.edu 
 Baiting Zhu - baitingzbt@g.ucla.edu
             
 ## RShiny Dashboard
